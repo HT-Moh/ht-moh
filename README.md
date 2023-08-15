@@ -1,8 +1,8 @@
-<h1 align="center">Hello World 👋! 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Moh</h1>
+<h1 align="center">Hello World><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!, I'm Moh</h1>
 <h3 align="center">I wear many hats, DevOps, full-stack, etc.. which makes me an Entrepreneur🤪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ht-moh&label=Profile%20views&color=0e75b6&style=flat" alt="ht-Moh" /> </p>
+
 <!--
 **HT-Moh/ht-moh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
