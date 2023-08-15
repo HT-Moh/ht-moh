@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Connect with me
+
+<p align="left">
+<a href="https://twitter.com/Web3Untold" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ht-moh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-habbat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ht-moh" height="30" width="40" /></a>
+<a href="https://profilerbiz.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ht-moh" height="30" width="40" /></a>
+</p>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
