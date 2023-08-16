@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ht-moh&theme=dracula" alt="ht-moh" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ht-moh&hide_border=true&count_private=true&show_icons=true&theme=dracula" alt="ht-moh" align = "center"/>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=ht-moh&exclude_repo=takenote-data&hide_border=true&count_private=true&show_icons=true&theme=dracula" alt="ht-moh" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ht-moh&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dracula" alt="ht-moh" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
